@@ -12,7 +12,6 @@ const routes = [
       component: Users,
       label: "Users",
     },
-
   ];
   
   export default routes;
